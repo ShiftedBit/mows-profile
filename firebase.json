@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist",
+    "public": "dist/mows-page",
     "ignore": [
       "firebase.json",
       "**/.*",
